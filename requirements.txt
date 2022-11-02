@@ -1,0 +1,6 @@
+fastapi[all]
+pyjwt
+SQLAlchemy
+passlib
+email-validator
+bcrypt
